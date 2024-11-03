@@ -1,0 +1,5 @@
+npm init -y
+npm run compile
+
+#"elm-live": "^4.0.2"
+npm run dev
